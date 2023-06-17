@@ -1,4 +1,3 @@
-/* Your CSS Code here. */
 .container {
   max-width: 400px;
   margin: 0 auto;
@@ -26,6 +25,10 @@ input[type="number"] {
 
 button {
   padding: 5px 10px;
+  background-color: #337ab7;
+  color: white;
+  border: none;
+  cursor: pointer;
 }
 
 .result {
