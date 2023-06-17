@@ -1,1 +1,36 @@
 /* Your CSS Code here. */
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.form {
+  margin-bottom: 20px;
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+input[type="number"] {
+  width: 100%;
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 5px 10px;
+}
+
+.result {
+  background-color: #f5f5f5;
+  padding: 10px;
+  font-weight: bold;
+  text-align: center;
+}
